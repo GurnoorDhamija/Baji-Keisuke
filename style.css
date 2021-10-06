@@ -1,0 +1,58 @@
+body{
+	background-color: lightgrey;
+	margin: 10px;
+}
+body img{
+	border-radius: 100%;
+	width: 30%;
+	border: 19px solid dimgrey;
+}
+body{
+
+}
+
+header{
+	font-size: 20px;
+	text-align: center;
+	background-color: gray;
+}
+
+
+h1{
+	text-align: center;
+	font-size: 30px;
+
+
+}
+
+h1,h2{
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+}
+h2{
+	margin: 10px;
+}
+
+p{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin: 10px;
+	font-size: 20px;
+}
+a{
+	padding: 10px;
+	color: blue;
+}
+a:hover{
+	color: darkblue;
+}
+li{
+	padding: 5px;
+	font-size: 20px;
+}
+
+footer{
+	background-color: darkgray;
+	font-size: 20px;
+	text-align: center;
+	border: 20px solid darkgray;
+}
